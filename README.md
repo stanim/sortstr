@@ -1,6 +1,7 @@
 # sortstr
 
 [![Documentation and Examples](https://godoc.org/github.com/stanim/sortstr?status.svg)](https://godoc.org/github.com/stanim/sortstr)
+[![Coverage Status](http://codecov.io/github/stanim/sortstr/coverage.svg?branch=master)](http://codecov.io/github/stanim/sortstr?branch=master)
 [![Software License](https://img.shields.io/badge/License-MIT-orange.svg?style=flat-square)](https://github.com/stanim/sortstr/blob/master/LICENSE)
 
 Sort slices of strings based on multiple indices or column
