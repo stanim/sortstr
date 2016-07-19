@@ -1,7 +1,7 @@
 # sortstr
 
 [![Travis CI](https://img.shields.io/travis/stanim/sortstr/master.svg?style=flat-square)](https://travis-ci.org/stanim/sortstr)
-[![Coverage Status](http://codecov.io/github/stanim/sortstr/coverage.svg?branch=master)](http://codecov.io/github/stanim/sortstr?branch=master)
+[![codecov](https://codecov.io/gh/stanim/sortstr/branch/master/graph/badge.svg)](https://codecov.io/gh/stanim/sortstr)
 [![Documentation and Examples](https://godoc.org/github.com/stanim/sortstr?status.svg)](https://godoc.org/github.com/stanim/sortstr)
 [![Software License](https://img.shields.io/badge/License-MIT-orange.svg?style=flat-square)](https://github.com/stanim/sortstr/blob/master/LICENSE)
 
