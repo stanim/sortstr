@@ -11,7 +11,7 @@ before_install:
 
 script:
   - go vet .
-	- golint .
+  - golint .
   - go test -v -coverprofile=coverage.txt -covermode=atomic
 
 after_success:
