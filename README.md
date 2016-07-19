@@ -1,10 +1,13 @@
 # sortstr
+
+[[https://godoc.org/github.com/stanim/sortstr][https://godoc.org/github.com/stanim/sortstr?status.svg]]
+
 Sort slices of strings based on multiple indices or column
 headers.
 Reverse sort is possible by providing negative index
 values or prefixing column header titles with `-`.
 Note that indices are not zero based, but start with 1.
-If an index is out of range an empty string will be
+If an index is out of range, an empty string will be
 used for comparing, rather than throwing a runtime
 panic.
 
