@@ -1,6 +1,6 @@
 # sortstr
 
-[[https://godoc.org/github.com/stanim/sortstr][https://godoc.org/github.com/stanim/sortstr?status.svg]]
+[![godoc](https://godoc.org/github.com/stanim/sortstr?status.svg)](https://godoc.org/github.com/stanim/sortstr)
 
 Sort slices of strings based on multiple indices or column
 headers.
