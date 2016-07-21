@@ -2,8 +2,9 @@
 
 [![Travis CI](https://img.shields.io/travis/stanim/sortstr/master.svg?style=flat-square)](https://travis-ci.org/stanim/sortstr)
 [![codecov](https://codecov.io/gh/stanim/sortstr/branch/master/graph/badge.svg)](https://codecov.io/gh/stanim/sortstr)
+[![goreportcard](https://goreportcard.com/badge/github.com/stanim/sortstr)](https://goreportcard.com/report/github.com/stanim/sortstr)
 [![Documentation and Examples](https://godoc.org/github.com/stanim/sortstr?status.svg)](https://godoc.org/github.com/stanim/sortstr)
-[![Software License](https://img.shields.io/badge/License-MIT-orange.svg?style=flat-square)](https://github.com/stanim/sortstr/blob/master/LICENSE)
+[![Software License](https://img.shields.io/badge/license-mit-orange.svg?style=flat-square)](https://github.com/stanim/sortstr/blob/master/LICENSE)
 
 Sort slices of strings based on multiple indices or column
 headers.
